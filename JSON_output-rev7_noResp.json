@@ -1,0 +1,1255 @@
+{
+ "name": "VEHSS Indicator Search",
+ "children": [
+  {
+   "name": "Age-related Macular Degeneration (AMD)",
+   "_children": [
+    {
+     "name": "Payments ",
+     "_children": [
+      {
+       "name": "Insurance payments for covered services, Per-person diagnosed",
+       "_children": [
+        {
+         "name": "Medicare (FFS claims)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": "Insurance payments for covered services, Total",
+       "_children": [
+        {
+         "name": "Medicare (FFS claims)",
+         "size": "100"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Prevalence",
+     "_children": [
+      {
+       "name": "Examination-based Prevalence",
+       "_children": [
+        {
+         "name": "NHANES (examination survey)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": "Proportion of patients diagnosed, by vision threatening status",
+       "_children": [
+        {
+         "name": "IRIS\u00ae Registry (EHR)",
+         "size": "100"
+        },
+        {
+         "name": "Commercial Insurance (claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicaid (T-MSIS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicare (FFS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Vision Insurance (claims)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": "Proportion of patients diagnosed, by clinical stage",
+       "_children": [
+        {
+         "name": "IRIS\u00ae Registry (EHR)",
+         "size": "100"
+        },
+        {
+         "name": "Commercial Insurance (claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicaid (T-MSIS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicare (FFS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Vision Insurance (claims)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": "Self-reported prevalence",
+       "_children": [
+        {
+         "name": "NHANES (survey self-report)",
+         "size": "100"
+        },
+        {
+         "name": "NHIS (survey self-report)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": " VEHSS: Comprehensive Prevalence Estimate",
+       "_children": [
+        {
+         "name": "VEHSS Comprehensive Estimate",
+         "size": "100"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Receipt of Services",
+     "_children": [
+      {
+       "name": "Proportion of diagnosed AMD patients who had an AMD treatment procedure",
+       "_children": [
+        {
+         "name": "IRIS\u00ae Registry (EHR)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": "Proportion of diagnosed AMD patients who had an AMD treatment claim",
+       "_children": [
+        {
+         "name": "Commercial Insurance (claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicaid (T-MSIS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicare (FFS claims)",
+         "size": "100"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Cataract",
+   "_children": [
+    {
+     "name": "Payments ",
+     "_children": [
+      {
+       "name": "Insurance payments for covered services, Per-person diagnosed",
+       "_children": [
+        {
+         "name": "Medicare (FFS claims)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": "Insurance payments for covered services, Total",
+       "_children": [
+        {
+         "name": "Medicare (FFS claims)",
+         "size": "100"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Prevalence",
+     "_children": [
+      {
+       "name": "Proportion of patients diagnosed, by treatment status",
+       "_children": [
+        {
+         "name": "IRIS\u00ae Registry (EHR)",
+         "size": "100"
+        },
+        {
+         "name": "Commercial Insurance (claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicaid (T-MSIS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicare (FFS claims)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": "Self-reported prevalence",
+       "_children": [
+        {
+         "name": "NHANES (survey self-report)",
+         "size": "100"
+        },
+        {
+         "name": "NHIS (survey self-report)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": " VEHSS: Comprehensive Prevalence Estimate",
+       "_children": [
+        {
+         "name": "VEHSS Comprehensive Estimate",
+         "size": "100"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Receipt of Services",
+     "_children": [
+      {
+       "name": "Proportion of diagnosed cataract patients who had a cataract surgery procedure",
+       "_children": [
+        {
+         "name": "IRIS\u00ae Registry (EHR)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": "Proportion of diagnosed cataract patients who had a cataract surgery claim",
+       "_children": [
+        {
+         "name": "Medicaid (T-MSIS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicare (FFS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Commercial Insurance (claims)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": "Self-reported prevalence",
+       "_children": [
+        {
+         "name": "NHIS (survey self-report)",
+         "size": "100"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diabetic Retinopathy (DR)",
+   "_children": [
+    {
+     "name": "Payments ",
+     "_children": [
+      {
+       "name": "Insurance payments for covered services, Per-person diagnosed",
+       "_children": [
+        {
+         "name": "Medicare (FFS claims)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": "Insurance payments for covered services, Total",
+       "_children": [
+        {
+         "name": "Medicare (FFS claims)",
+         "size": "100"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Prevalence",
+     "_children": [
+      {
+       "name": "Proportion of patients diagnosed, by clinical stage",
+       "_children": [
+        {
+         "name": "IRIS\u00ae Registry (EHR)",
+         "size": "100"
+        },
+        {
+         "name": "Commercial Insurance (claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicaid (T-MSIS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicare (FFS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Vision Insurance (claims)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": "Proportion of patients diagnosed, by vision threatening status",
+       "_children": [
+        {
+         "name": "IRIS\u00ae Registry (EHR)",
+         "size": "100"
+        },
+        {
+         "name": "Commercial Insurance (claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicaid (T-MSIS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicare (FFS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Vision Insurance (claims)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": "Self-reported prevalence",
+       "_children": [
+        {
+         "name": "NHANES (survey self-report)",
+         "size": "100"
+        },
+        {
+         "name": "NHIS (survey self-report)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": " VEHSS: Comprehensive Prevalence Estimate",
+       "_children": [
+        {
+         "name": "VEHSS Comprehensive Estimate",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": "Examination-based Prevalence",
+       "_children": [
+        {
+         "name": "NHANES (examination survey)",
+         "size": "100"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Receipt of Services",
+     "_children": [
+      {
+       "name": "Proportion of diagnosed DR patients who had a DR treatment procedure",
+       "_children": [
+        {
+         "name": "IRIS\u00ae Registry (EHR)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": "Proportion of diagnosed DR patients who had a DR treatment claim",
+       "_children": [
+        {
+         "name": "Commercial Insurance (claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicaid (T-MSIS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicare (FFS claims)",
+         "size": "100"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Glaucoma",
+   "_children": [
+    {
+     "name": "Payments ",
+     "_children": [
+      {
+       "name": "Insurance payments for covered services, Per-person diagnosed",
+       "_children": [
+        {
+         "name": "Medicare (FFS claims)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": "Insurance payments for covered services, Total",
+       "_children": [
+        {
+         "name": "Medicare (FFS claims)",
+         "size": "100"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Prevalence",
+     "_children": [
+      {
+       "name": "Examination-based prevalence",
+       "_children": [
+        {
+         "name": "NHANES (examination survey)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": "Proportion of patients diagnosed, by clinical stage",
+       "_children": [
+        {
+         "name": "IRIS\u00ae Registry (EHR)",
+         "size": "100"
+        },
+        {
+         "name": "Commercial Insurance (claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicaid (T-MSIS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicare (FFS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Vision Insurance (claims)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": "Proportion of patients diagnosed, by specified vs suspect",
+       "_children": [
+        {
+         "name": "IRIS\u00ae Registry (EHR)",
+         "size": "100"
+        },
+        {
+         "name": "Commercial Insurance (claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicaid (T-MSIS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicare (FFS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Vision Insurance (claims)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": "Self-reported prevalence",
+       "_children": [
+        {
+         "name": "NHANES (survey self-report)",
+         "size": "100"
+        },
+        {
+         "name": "NHIS (survey self-report)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": " VEHSS: Comprehensive Prevalence Estimate",
+       "_children": [
+        {
+         "name": "VEHSS Comprehensive Estimate",
+         "size": "100"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Receipt of Services",
+     "_children": [
+      {
+       "name": "Proportion of diagnosed glaucoma patients who had a glaucoma treatment procedure",
+       "_children": [
+        {
+         "name": "IRIS\u00ae Registry (EHR)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": "Proportion of diagnosed glaucoma patients who had a glaucoma treatment claim",
+       "_children": [
+        {
+         "name": "Commercial Insurance (claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicaid (T-MSIS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicare (FFS claims)",
+         "size": "100"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Other Eye Disorders",
+   "_children": [
+    {
+     "name": "Cancer and Neoplasms of the Eye",
+     "_children": [
+      {
+       "name": "Proportion of patients diagnosed",
+       "_children": [
+        {
+         "name": "IRIS\u00ae Registry (EHR)",
+         "size": "100"
+        },
+        {
+         "name": "Commercial Insurance (claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicaid (T-MSIS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicare (FFS claims)",
+         "size": "100"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Cornea Disorders",
+     "_children": [
+      {
+       "name": "Proportion of patients diagnosed",
+       "_children": [
+        {
+         "name": "IRIS\u00ae Registry (EHR)",
+         "size": "100"
+        },
+        {
+         "name": "Commercial Insurance (claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicaid (T-MSIS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicare (FFS claims)",
+         "size": "100"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Disorders of Optic Nerve and Visual Pathways",
+     "_children": [
+      {
+       "name": "Proportion of patients diagnosed",
+       "_children": [
+        {
+         "name": "IRIS\u00ae Registry (EHR)",
+         "size": "100"
+        },
+        {
+         "name": "Commercial Insurance (claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicaid (T-MSIS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicare (FFS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Vision Insurance (claims)",
+         "size": "100"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Infectious and Inflammatory Diseases",
+     "_children": [
+      {
+       "name": "Proportion of patients diagnosed",
+       "_children": [
+        {
+         "name": "IRIS\u00ae Registry (EHR)",
+         "size": "100"
+        },
+        {
+         "name": "Commercial Insurance (claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicaid (T-MSIS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicare (FFS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Vision Insurance (claims)",
+         "size": "100"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Injury, Burns and Surgical Complications of the Eye",
+     "_children": [
+      {
+       "name": "Proportion of patients diagnosed",
+       "_children": [
+        {
+         "name": "IRIS\u00ae Registry (EHR)",
+         "size": "100"
+        },
+        {
+         "name": "Commercial Insurance (claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicaid (T-MSIS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicare (FFS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Vision Insurance (claims)",
+         "size": "100"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Orbital and External Disease",
+     "_children": [
+      {
+       "name": "Proportion of patients diagnosed",
+       "_children": [
+        {
+         "name": "IRIS\u00ae Registry (EHR)",
+         "size": "100"
+        },
+        {
+         "name": "Commercial Insurance (claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicaid (T-MSIS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicare (FFS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Vision Insurance (claims)",
+         "size": "100"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Other Eye Disorders",
+     "_children": [
+      {
+       "name": "Proportion of patients diagnosed",
+       "_children": [
+        {
+         "name": "IRIS\u00ae Registry (EHR)",
+         "size": "100"
+        },
+        {
+         "name": "Commercial Insurance (claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicaid (T-MSIS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicare (FFS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Vision Insurance (claims)",
+         "size": "100"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Other Retinal Disorders",
+     "_children": [
+      {
+       "name": "Proportion of patients diagnosed",
+       "_children": [
+        {
+         "name": "IRIS\u00ae Registry (EHR)",
+         "size": "100"
+        },
+        {
+         "name": "Commercial Insurance (claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicaid (T-MSIS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicare (FFS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Vision Insurance (claims)",
+         "size": "100"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Retinal Detachment and Defects",
+     "_children": [
+      {
+       "name": "Proportion of patients diagnosed",
+       "_children": [
+        {
+         "name": "IRIS\u00ae Registry (EHR)",
+         "size": "100"
+        },
+        {
+         "name": "Commercial Insurance (claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicaid (T-MSIS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicare (FFS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Vision Insurance (claims)",
+         "size": "100"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Strabismus and amblyopia",
+     "_children": [
+      {
+       "name": "Proportion of patients diagnosed",
+       "_children": [
+        {
+         "name": "Commercial Insurance (claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicare (FFS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicaid (T-MSIS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Vision Insurance (claims)",
+         "size": "100"
+        },
+        {
+         "name": "IRIS\u00ae Registry (EHR)",
+         "size": "100"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Vision Care",
+   "_children": [
+    {
+     "name": "Eye Exams",
+     "_children": [
+      {
+       "name": "Proportion of patients",
+       "_children": [
+        {
+         "name": "IRIS\u00ae Registry (EHR)",
+         "size": "100"
+        },
+        {
+         "name": "Medicare (FFS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicaid (T-MSIS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Vision Insurance (claims)",
+         "size": "100"
+        },
+        {
+         "name": "Commercial Insurance (claims)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": "Self-reported prevalence",
+       "_children": [
+        {
+         "name": "NHIS (survey self-report)",
+         "size": "100"
+        },
+        {
+         "name": "NSCH (children survey self-report)",
+         "size": "100"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Eye Protection",
+     "_children": [
+      {
+       "name": "Self-reported prevalence",
+       "_children": [
+        {
+         "name": "NHIS (survey self-report)",
+         "size": "100"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Imaging or diagnostic test",
+     "_children": [
+      {
+       "name": "Proportion of patients who had a procedure",
+       "_children": [
+        {
+         "name": "IRIS\u00ae Registry (EHR)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": "Proportion of patients who had a claim",
+       "_children": [
+        {
+         "name": "Medicare (FFS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicaid (T-MSIS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Vision Insurance (claims)",
+         "size": "100"
+        },
+        {
+         "name": "Commercial Insurance (claims)",
+         "size": "100"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Screening services",
+     "_children": [
+      {
+       "name": "Proportion of patients who had a claim",
+       "_children": [
+        {
+         "name": "Medicare (FFS claims)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": "Self-reported prevalence",
+       "_children": [
+        {
+         "name": "NSCH (children survey self-report)",
+         "size": "100"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Vision Correction",
+     "_children": [
+      {
+       "name": "Proportion of patients who had a procedure",
+       "_children": [
+        {
+         "name": "IRIS\u00ae Registry (EHR)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": "Proportion of patients who had a claim",
+       "_children": [
+        {
+         "name": "Medicare (FFS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicaid (T-MSIS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Vision Insurance (claims)",
+         "size": "100"
+        },
+        {
+         "name": "Commercial Insurance (claims)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": "Self-reported prevalence",
+       "_children": [
+        {
+         "name": "NHIS (survey self-report)",
+         "size": "100"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Visual Function",
+   "_children": [
+    {
+     "name": "Diagnosed disorders of refraction and accommodation",
+     "_children": [
+      {
+       "name": "Proportion of patients diagnosed",
+       "_children": [
+        {
+         "name": "IRIS\u00ae Registry (EHR)",
+         "size": "100"
+        },
+        {
+         "name": "Commercial Insurance (claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicaid (T-MSIS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicare (FFS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Vision Insurance (claims)",
+         "size": "100"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Diagnosed vision loss and blindness",
+     "_children": [
+      {
+       "name": "Proportion of patients diagnosed",
+       "_children": [
+        {
+         "name": "Commercial Insurance (claims)",
+         "size": "100"
+        },
+        {
+         "name": "IRIS\u00ae Registry (EHR)",
+         "size": "100"
+        },
+        {
+         "name": "Medicaid (T-MSIS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicare (FFS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Vision Insurance (claims)",
+         "size": "100"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Diagnosed visual disturbances",
+     "_children": [
+      {
+       "name": "Proportion of patients diagnosed",
+       "_children": [
+        {
+         "name": "IRIS\u00ae Registry (EHR)",
+         "size": "100"
+        },
+        {
+         "name": "Commercial Insurance (claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicaid (T-MSIS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Medicare (FFS claims)",
+         "size": "100"
+        },
+        {
+         "name": "Vision Insurance (claims)",
+         "size": "100"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Vision loss and blindness",
+     "_children": [
+      {
+       "name": "Blind or unable to see",
+       "_children": [
+        {
+         "name": "NHIS (survey self-report)",
+         "size": "100"
+        },
+        {
+         "name": "NHANES (survey self-report)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": "Self-reported prevalence",
+       "_children": [
+        {
+         "name": "NHIS (survey self-report)",
+         "size": "100"
+        },
+        {
+         "name": "ACS (survey self-report)",
+         "size": "100"
+        },
+        {
+         "name": "BRFSS (survey self-report)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": "Best corrected acuity",
+       "_children": [
+        {
+         "name": "NHANES (examination survey)",
+         "size": "100"
+        },
+        {
+         "name": "IRIS\u00ae Registry (EHR)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": "Presenting acuity",
+       "_children": [
+        {
+         "name": "NHANES (examination survey)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": "Uncorrected refractive error (URE)",
+       "_children": [
+        {
+         "name": "NHANES (examination survey)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": " VEHSS: Comprehensive Prevalence Estimate",
+       "_children": [
+        {
+         "name": "VEHSS Comprehensive Estimate",
+         "size": "100"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Visual difficulty",
+     "_children": [
+      {
+       "name": "Self-reported difficulty doing work requiring seeing up close",
+       "_children": [
+        {
+         "name": "NHIS (survey self-report)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": "Self-reported difficulty driving during daytime",
+       "_children": [
+        {
+         "name": "NHIS (survey self-report)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": "Self-reported difficulty find something on a crowded shelf",
+       "_children": [
+        {
+         "name": "NHIS (survey self-report)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": "Self-reported difficulty going down steps in dim light/night",
+       "_children": [
+        {
+         "name": "NHIS (survey self-report)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": "Self-reported difficulty noticing objects off to the side",
+       "_children": [
+        {
+         "name": "NHIS (survey self-report)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": "Self-reported difficulty reading ordinary newsprint",
+       "_children": [
+        {
+         "name": "NHIS (survey self-report)",
+         "size": "100"
+        }
+       ]
+      },
+      {
+       "name": "Self-reported difficulty seeing",
+       "_children": [
+        {
+         "name": "NHIS (survey self-report)",
+         "size": "100"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
